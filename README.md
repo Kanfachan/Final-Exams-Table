@@ -35,7 +35,7 @@ The goal of this project is to reinforce practical HTML knowledge by building a 
 
 ## GitHub Deployment Location (HTTPS)
 
-https://kanfachan.github.io/Final-Exam-Table/
+https://kanfachan.github.io/Final-Exams-Table/
 
 ## GitHub Repository Location (HTTPS)
 
