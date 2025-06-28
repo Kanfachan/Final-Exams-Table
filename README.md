@@ -39,7 +39,7 @@ https://kanfachan.github.io/Final-Exams-Table/
 
 ## GitHub Repository Location (HTTPS)
 
-https://github.com/Kanfachan/Final-Exam-Table
+https://github.com/Kanfachan/Final-Exams-Table
 
 ## Credits
 
